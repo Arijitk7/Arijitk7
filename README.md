@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning dev
 - 💞️ I’m looking to collaborate on exciting projects related to web development or mobile app development.
-- 📫 How to reach me direct message on Twitter or through my email, [arijitkarmakar025@gmail.com].
+- 📫 How to reach me direct message on Twitter or through my email.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to solve coding challenges while listening to my favorite playlists!
 
